@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: com.swust.glsc.user.GlscUserApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0.246 s <<< FAILURE! - in com.swust.glsc.user.GlscUserApplicationTests
+initializationError(com.swust.glsc.user.GlscUserApplicationTests)  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.Exception: The class com.swust.glsc.user.GlscUserApplicationTests is not public.
+
+initializationError(com.swust.glsc.user.GlscUserApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Test class should have exactly one public constructor
+
+initializationError(com.swust.glsc.user.GlscUserApplicationTests)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: Method contextLoads() should be public
+

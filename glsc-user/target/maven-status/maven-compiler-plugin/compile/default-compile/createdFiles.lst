@@ -1,0 +1,6 @@
+com\swust\glsc\user\service\UserService.class
+com\swust\glsc\user\service\impl\UserServiceImpl.class
+com\swust\glsc\user\controller\UserController.class
+com\swust\glsc\user\bean\UmsMember.class
+com\swust\glsc\user\GlscUserApplication.class
+com\swust\glsc\user\mapper\UserMapper.class
